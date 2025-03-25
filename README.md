@@ -2,7 +2,7 @@ App Name:
 To-Watch!
 
 Project Choice:
-Whatch List App for posting, reviewing and also commenting on other people's review about a movie or TV series.
+Watch List App for posting, reviewing and also commenting on other people's review about a movie or TV series.
 
 Project Inspiration:
 I have always to build and app to make a list of movies or shows that I want to watch and record the thoughts I have on the movie and see other people's thoughts too.
